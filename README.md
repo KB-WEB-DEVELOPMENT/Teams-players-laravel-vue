@@ -32,7 +32,10 @@ type php artisan key:generateto regenerate secure key
 if you use MySQL in .env file :
 
 set DB_CONNECTION
+
 set DB_DATABASE
+
 set DB_USERNAME
+
 set DB_PASSWORD
 
