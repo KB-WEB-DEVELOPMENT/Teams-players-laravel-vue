@@ -17,7 +17,7 @@ http://itsolutionstuff.com/post/laravel-5-and-vue-js-crud-with-pagination-exampl
 Installation
 --------------
 
-type git clone https://github.com/KB-WEB-DEVELOPMENT/Team-players-laravel-vue.git projectname to clone the repository
+type git clone https://github.com/KB-WEB-DEVELOPMENT/Teams-players-laravel-vue.git projectname to clone the repository
     
 type cd projectname
     
