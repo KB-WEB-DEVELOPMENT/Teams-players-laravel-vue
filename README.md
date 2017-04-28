@@ -11,7 +11,7 @@ For more infos:
 
 https://laravel.com/docs/5.4/eloquent-relationships#one-to-many
 
-http://itsolutionstuff.com/post/laravel-5-and-vue-js-crud-with-pagination-example-and-demo-from-scratchexample.html
+http://demo.itsolutionstuff.com/manage-vue
 
 
 Installation
