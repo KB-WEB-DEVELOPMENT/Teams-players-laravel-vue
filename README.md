@@ -1,7 +1,7 @@
 Teams-players-laravel-vue -- Laravel 5 example
 -------------------------------------------------
 
-Football teams & players application with database CRUD (Create, Read, Update and Delete) functionalities and pagination using Laravel 5.3 and vue.js 
+Football teams & players application with database CRUD (Create, Read, Update and Delete) functionalities and pagination using Laravel 5.3 and vue2.js 
 
 This app illustrates a "one-to-many" Laravel models relationship, i.e: a team may have 0, 1 or > 1 players but
 
